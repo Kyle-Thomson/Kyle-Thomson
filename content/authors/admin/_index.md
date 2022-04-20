@@ -25,8 +25,8 @@ social:
 - icon: envelope
   icon_pack: fas
   link: /#contact
-# - display:
-#     header: true
+- display:
+    header: true
 #   icon: twitter
 #   icon_pack: fab
 #   label: Follow me on Twitter
@@ -46,4 +46,4 @@ title: Kyle B. Thomson
 
 Kyle is a third year medical student. He is originally from Seattle. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Kyle Thomson CV_2021 07 08.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Kyle Thomson CV_2021 07 08.pdf" "newtab" >}}Curriculum Vitae{{< /staticref >}}.
